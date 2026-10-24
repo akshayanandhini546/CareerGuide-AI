@@ -1,0 +1,9 @@
+course_id,topic,format,level,why_it_helps
+L01,Python programming,Practice course,Beginner,Build programming foundations for many technical roles
+L02,SQL and relational databases,Practice course,Beginner,Query and manage structured data
+L03,HTML CSS and JavaScript,Project pathway,Beginner,Create responsive interactive websites
+L04,Git and GitHub,Hands-on tutorial,Beginner,Track code changes and publish projects
+L05,Statistics and data analysis,Study pathway,Beginner,Understand data and evaluate models
+L06,Machine learning fundamentals,Project pathway,Intermediate,Train and assess basic predictive models
+L07,Networking and Linux fundamentals,Hands-on tutorial,Beginner,Build foundations for cloud and security roles
+L08,Software testing fundamentals,Practice pathway,Beginner,Design reliable tests for applications
